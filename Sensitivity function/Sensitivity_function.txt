@@ -1,0 +1,2 @@
+Estimated sensitivity function: V(T) = 0.0000 * T^2 + -0.0255 * T + 31.3610
+Coefficients (a, b, c): [ 4.83492075e-05 -2.55183511e-02  3.13609563e+01]

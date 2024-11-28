@@ -1,0 +1,1 @@
+Label for estimated_value.csv: "File number, Estimated voltage, Temperature, Switch index, Begin of stable phase index, End of stable phase index"
